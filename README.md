@@ -2,5 +2,6 @@
 USE :
 
 cd simple_rpg_game/
+
 python3 main.py
 

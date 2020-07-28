@@ -1,7 +1,7 @@
 # simple_rpg_game
 THE GAME IS UNDER DEVELOPMENT
 
-USE :
+setup :
 
 cd simple_rpg_game/
 
